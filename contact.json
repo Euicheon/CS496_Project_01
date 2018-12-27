@@ -1,32 +1,34 @@
-[
+{
+  "contact": [
   {
-  	"name": "Cassio Zen",
-  	"email": "cassiozen@gmail.com",
+    "name": "Cassio Zen",
+    "email": "cassiozen@gmail.com",
     "phone number": "+8123123123"
   },
   {
-  	"name": "Dan Abramov",
-  	"email": "gaearon@somewhere.com",
+    "name": "Dan Abramov",
+    "email": "gaearon@somewhere.com",
     "phone number": "+8123123123"      
   },
   {
-  	"name": "Pete Hunt",
-  	"email": "floydophone@somewhere.com",
+    "name": "Pete Hunt",
+    "email": "floydophone@somewhere.com",
     "phone number": "+8123123123"
   },
   {
-  	"name": "Paul O’Shannessy",
-  	"email": "zpao@somewhere.com",
+    "name": "Paul O’Shannessy",
+    "email": "zpao@somewhere.com",
     "phone number": "+8123123123"
   },
   {
-  	"name": "Ryan Florence",
-  	"email": "rpflorence@somewhere.com",
+    "name": "Ryan Florence",
+    "email": "rpflorence@somewhere.com",
     "phone number": "+8123123123"
   },
   {
-  	"name": "Sebastian Markbage",
-  	"email": "sebmarkbage@here.com",
+    "name": "Sebastian Markbage",
+    "email": "sebmarkbage@here.com",
     "phone number": "+8123123123"
   }
 ]
+}
